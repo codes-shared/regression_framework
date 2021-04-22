@@ -1,0 +1,16 @@
+# Cache files and other folders
+.ipynb_checkpoints/
+config/
+data/
+init/
+
+# Jupyter Notebooks
+*.ipynb
+
+
+README_futuro.md
+reg_fw.py
+
+__pycache__
+.DS_Store
+
